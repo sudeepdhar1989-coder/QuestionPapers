@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+.vs/
+.vscode/
+.git/
+.gitignore
+*.user
+*.suo
+App_Data/credentials.json
+README.md
